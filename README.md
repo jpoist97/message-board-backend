@@ -4,15 +4,15 @@
 ## Running the Server Locally
 
 #### Clone the repository
-```git clone https://github.com/jpoist97/message-board-backend.git```
+```git clone https://github.com/jpoist97/message-board-backend.git```<br />
 ```cd message-board-backend/```
 
 #### Install Dependencies
 ```npm install```
 
 #### Run the app
-```node main.js -p [Port Number]```
-If you are running the server in tandem with [message-board-frontend]() run the server on port 3001.
+```node main.js -p [Port Number]``` <br />
+If you are running the server in tandem with [message-board-frontend]() run the server on port 3001.<br />
 ```node main.js -p 3001```
 
 ## Running the Tests Locally
