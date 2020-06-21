@@ -1,5 +1,5 @@
 # message-board-backend
-> Node.js/Express.js Server for [Message Board Website]()
+> Node.js/Express.js Server for [Message Board Webpage](https://github.com/jpoist97/message-board-frontend/tree/master)
 
 ## Running the Server Locally
 
@@ -12,7 +12,7 @@
 
 #### Run the app
 ```node main.js -p [Port Number]``` <br />
-If you are running the server in tandem with [message-board-frontend]() run the server on port 3001.<br />
+If you are running the server in tandem with [message-board-frontend](https://github.com/jpoist97/message-board-frontend/tree/master) run the server on port 3001.<br />
 ```node main.js -p 3001```
 
 ## Running the Tests Locally
